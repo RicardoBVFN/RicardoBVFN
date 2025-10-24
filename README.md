@@ -1,5 +1,5 @@
 # 🚀 About Me:
-Prazer, me chamo Ricardo Neves 👋<br>Sou estudante de Sistemas de informação pela Cesar School📚<br>Tecnologias: Python, Django, HTML, CSS (bootstrap), JavaScript, C 👨‍💻<br>Estou aprendendo: Java, PHP, SQL 🧑‍🏫<br>Busco trabalhar em: Desenvolvimento back end, desenvolvimento fullstack ou similares<br><br>
+Prazer, me chamo Ricardo Neves 👋<br>Sou estudante de Sistemas de informação pela Cesar School📚<br>Tecnologias: Python, Django, Java, Bootstrap, MySQL 👨‍💻<br>Estou aprendendo: MongoDB, AWS, Docker e Linux 🧑‍🏫<br>Busco trabalhar em: Desenvolvimento back end java, QA, engenheiro de automatizações ou similares<br><br>
 
 
 ## 🌐 Socials:
@@ -16,5 +16,3 @@ Prazer, me chamo Ricardo Neves 👋<br>Sou estudante de Sistemas de informação
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-neves-68a0ab303/)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
